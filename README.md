@@ -7,3 +7,4 @@
 3. Pandas
 4. Linear Regression
 5. Logistic Regression
+6. KNN(K Nearest Neighbor)
