@@ -5,3 +5,4 @@
 1. Python Basics
 2. Numpy
 3. Pandas
+4. Linear Regression
