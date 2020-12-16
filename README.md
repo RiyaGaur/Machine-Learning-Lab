@@ -8,6 +8,7 @@
 4. Linear Regression
 5. Logistic Regression
 6. KNN(K Nearest Neighbor)
+7. K-Means Clustering
 
 
 ## Assignments
