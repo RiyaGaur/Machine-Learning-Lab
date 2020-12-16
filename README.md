@@ -9,6 +9,8 @@
 5. Logistic Regression
 6. KNN(K Nearest Neighbor)
 7. K-Means Clustering
+8. Naive Bayes Theorem
+
 
 
 ## Assignments
